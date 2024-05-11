@@ -70,7 +70,7 @@
     "downloadReceipt":".col-sm-9 > .btn-default",
     "continuebutton":"[data-qa='continue-button']",
     "signupName":"test199f",
-    "signupEmail":"seg2021ecypress@yahoo.com",
+    "signupEmail":"seg2021ecypress@example.com",
     "signupPassword":"testing12345",
     "firstName":"Segun",
     "lastName":"Samson",
